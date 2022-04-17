@@ -40,9 +40,8 @@ public class test {
 
         List<String> list=new ArrayList<>();
         list.add("hello");
-        list.add("hello");
-        list.add("hello");
-        list.add("hello");
+
+
         
 
 
