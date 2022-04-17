@@ -1,5 +1,7 @@
 import java.io.*;
 import java.sql.Time;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -35,6 +37,13 @@ public class test {
         fileWriter.write(i);
             System.out.println(i);}
         fileWriter.close();
+
+        List<String> list=new ArrayList<>();
+        list.add("hello");
+        list.add("hello");
+        list.add("hello");
+        list.add("hello");
+        
 
 
     }
