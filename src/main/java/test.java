@@ -42,7 +42,7 @@ public class test {
         list.add("hello");
 //new coment
         List<String> list2=new ArrayList<>();
-        
+
 
 
     }
