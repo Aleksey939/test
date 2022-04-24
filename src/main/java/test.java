@@ -40,7 +40,6 @@ public class test {
 
         List<String> list=new ArrayList<>();
         list.add("hello");
-//new coment
         List<String> list2=new ArrayList<>();
         list2.add("Hi");
         list2.add("all");
