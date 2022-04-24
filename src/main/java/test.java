@@ -42,9 +42,8 @@ public class test {
         list.add("hello");
 //new coment
         List<String> list2=new ArrayList<>();
-
-
-
+        list2.add("Hi");
+        list2.add("all");
     }
 
 }
